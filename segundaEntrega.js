@@ -87,7 +87,7 @@ const productos = [
       }
     }
   };
-  
+   
   if (autenticarUsuario()) {
     ejecutarSimulador();
   }
